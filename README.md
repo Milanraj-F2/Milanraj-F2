@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Full-Stack Developer | React & Node.js | Open Source Contributor | Always learning new technologies.<br>
 
 
@@ -12,10 +12,10 @@ Full-Stack Developer | React & Node.js | Open Source Contributor | Always learni
 ![](https://streak-stats.demolab.com/?user=Milanraj-F2&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Milanraj-F2&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Milanraj-F2&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
